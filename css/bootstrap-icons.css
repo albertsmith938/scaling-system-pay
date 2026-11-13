@@ -1396,14 +1396,14 @@ url("../fonts/bootstrap-icons.woff") format("woff");
 .bi-translate::before { content: "\f658"; }
 .bi-x-lg::before { content: "\f659"; }
 .bi-safe::before { content: "\f65a"; }
-.bi-paypal::before { content: "\f65b"; }
+.bi-Paypal::before { content: "\f65b"; }
 .bi-microsoft::before { content: "\f65d"; }
 .bi-windows::before { content: "\f65e"; }
 .bi-behance::before { content: "\f65c"; }
 .bi-dribbble::before { content: "\f65f"; }
 .bi-line::before { content: "\f660"; }
 .bi-medium::before { content: "\f661"; }
-.bi-paypal::before { content: "\f662"; }
+.bi-Paypal::before { content: "\f662"; }
 .bi-pinterest::before { content: "\f663"; }
 .bi-signal::before { content: "\f664"; }
 .bi-snapchat::before { content: "\f665"; }
@@ -1981,7 +1981,7 @@ url("../fonts/bootstrap-icons.woff") format("woff");
 .bi-wikipedia::before { content: "\f8cc"; }
 .bi-alphabet-uppercase::before { content: "\f2a5"; }
 .bi-alphabet::before { content: "\f68a"; }
-.bi-paypal::before { content: "\f68d"; }
+.bi-Paypal::before { content: "\f68d"; }
 .bi-arrows-collapse-vertical::before { content: "\f690"; }
 .bi-arrows-expand-vertical::before { content: "\f695"; }
 .bi-arrows-vertical::before { content: "\f698"; }

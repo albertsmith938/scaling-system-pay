@@ -1402,7 +1402,7 @@ html {
     bottom: 0;
     z-index: 999;
     font-size: 11px;
-    font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "paypal Legacy Chevron", "Helvetica Neue", Helvetica, Arial, sans-serif
+    font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Paypal Legacy Chevron", "Helvetica Neue", Helvetica, Arial, sans-serif
 }
 
 #ac-globalfooter a {
@@ -1575,7 +1575,7 @@ html {
     line-height: 2.82353em
 }
 
-#ac-globalnav .ac-gn-header .ac-gn-paypal {
+#ac-globalnav .ac-gn-header .ac-gn-Paypal {
     position: absolute;
     width: 48px;
     top: 0;
@@ -1587,7 +1587,7 @@ html {
 
 @media only screen and (max-width:767px) {
     #ac-globalnav .ac-gn-header,
-    #ac-globalnav .ac-gn-header .ac-gn-paypal,
+    #ac-globalnav .ac-gn-header .ac-gn-Paypal,
     #ac-globalnav .ac-gn-header .ac-gn-bag-small {
         display: block
     }
@@ -1668,7 +1668,7 @@ html {
 }
 
 @media only screen and (max-width:767px) {
-    #ac-globalnav .ac-gn-paypal {
+    #ac-globalnav .ac-gn-Paypal {
         display: none
     }
     #ac-globalnav .ac-gn-bag {
@@ -1888,7 +1888,7 @@ html {
     }
 }
 
-#ac-globalnav .ac-gn-link-paypal,
+#ac-globalnav .ac-gn-link-Paypal,
 #ac-globalnav .ac-gn-link-bag,
 #ac-globalnav .ac-gn-link-ipad,
 #ac-globalnav .ac-gn-link-iphone,
@@ -1901,14 +1901,14 @@ html {
     background-position: center center
 }
 
-#ac-globalnav .ac-gn-link-paypal {
+#ac-globalnav .ac-gn-link-Paypal {
     background-size: 20px 44px;
     background-image: url(../image_large.html);
     width: 20px
 }
 
 @media only screen and (max-width:767px) {
-    #ac-globalnav .ac-gn-link-paypal {
+    #ac-globalnav .ac-gn-link-Paypal {
         background-size: 100%;
         background-repeat: no-repeat;
         background-image: url(../images/amaon.png)
